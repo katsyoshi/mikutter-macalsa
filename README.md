@@ -1,12 +1,8 @@
 mikutter-macalsa
 ================
 
-mac向けのサウンドプラグイン
-spawnでafplayつかうとゾンビプロセスになるのでちゃんとdetachしてプロセスがおわるようにしたよ
+このリポジトリは削除しました。
 
-# install
+macでみくったーながしたい場合は以下のリポジトリを利用してくだしあ
+http:/github.com/cosmo0920/mikutter-core-audio
 
-```
-git clone git://github.com/katsyoshi/mikutter-macalsa.git ~/.mikutter/plugin/alsa # くそだな
-```
-でインストールしてみくったーを起動すればいいはず
